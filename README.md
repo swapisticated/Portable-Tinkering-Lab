@@ -25,16 +25,14 @@ Installation
 
     Clone the repository:
 
-    bash
+    
 
-git clone https://github.com/your-username/portable-tinkering-lab-app.git
-cd portable-tinkering-lab-app
+    git clone https://github.com/your-username/portable-tinkering-lab-app.git
+    cd portable-tinkering-lab-app
 
 Install dependencies:
 
-bash
-
-flutter pub get
+    flutter pub get
 
 Setup Firebase:
 
