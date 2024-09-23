@@ -2,6 +2,14 @@
 
 The **Portable Tinkering Lab App** is a Flutter-based mobile application designed for students to explore and learn about electronic components and various experiments. It integrates video tutorials, a scanning feature for identifying components, and interactive learning modules, providing an immersive hands-on experience.
 
+## Releases
+
+You can find the latest releases of this project [here](https://github.com/swapisticated/Portable-Tinkering-Lab.git).
+
+### Latest Releases
+- [v0.2.0-alpha](https://github.com/swapisticated/Portable-Tinkering-Lab.git/releases/tag/v0.2.0-alpha) - Initial release
+
+
 ## Features
 
 - **Video Tutorials:** Watch tutorials on different electronic components and their usage.
