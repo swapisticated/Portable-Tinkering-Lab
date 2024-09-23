@@ -7,7 +7,7 @@ The **Portable Tinkering Lab App** is a Flutter-based mobile application designe
 You can find the latest releases of this project [here](https://github.com/swapisticated/Portable-Tinkering-Lab.git).
 
 ### Latest Releases
-- [v0.2.0-alpha](https://github.com/swapisticated/Portable-Tinkering-Lab.git/releases/tag/v0.2.0-alpha) - Initial release
+- [v0.1.0-alpha](https://github.com/swapisticated/Portable-Tinkering-Lab.git/releases/tag/v0.1.0-alpha) - Initial release
 
 
 ## Features
